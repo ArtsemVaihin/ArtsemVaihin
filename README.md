@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning SQL, Python and Data Frameworks
 - 💞️ I’m looking to collaborate on Data Driven companies
 - 📫 How to reach me: 
-- @On_sa - Telegram
+- @snovaonsamy - Telegram
+- artemvajgin@gmail.com
 
 <!---
 ArtsemVaihin/ArtsemVaihin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
